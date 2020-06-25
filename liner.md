@@ -2,6 +2,7 @@
 
 Liner is a Clojure(script) library for processing command-line arguments.
 
+![Ocean liner](./ocean_liner_photo_by_x1klima.jpg)
 
 ## Quick Start
 
@@ -31,3 +32,6 @@ Or, if the argument isn't passed (& there's no default):
 
 ## Limitations / Future Work
 
+## Credits
+
+Photo by [https://www.flickr.com/people/x1klima/](https://www.flickr.com/people/x1klima/)
