@@ -14,6 +14,7 @@ For a `-p 8080` / `--port 8080` flag, you might use:
       :help  "the port number your server runs on"
       :coerce "int"
       :default 8000
+      :required false
     }
   ]
 ```
